@@ -8,15 +8,15 @@
 
 :root {
     --cor-de-fundo: #EBECEE;
-    --branco: #530505;
-    --laranja: #6953e0;
-    --azul-degrade: linear-gradient(97.54deg, #ecafe4 35.49%, #023d22 165.37%);
+    --branco: #ab3c3c;
+    --laranja: #5ac747;
+    --azul-degrade: linear-gradient(97.54deg, #04a92a 35.49%, #37e597 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #00ff55;
+    --azul: #4f9567;
     --fonte-secundario: "Josefin Sans";
-    --preto: #c20010;
-    --cinza: #1d1f18;
-    --cinza-claro: #e5ff00;
+    --preto: #ea0014;
+    --cinza: #cb2eb9;
+    --cinza-claro: #819002;
 }
 
 body {
